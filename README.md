@@ -1,4 +1,5 @@
-# ChartsExampleServer -SignalR ve SqlTableDependency ile Gerçek Zamanlı Veri Güncelleme
+
+# 📡 ChartsExampleServer
 
 Bu proje, **ASP.NET Core**, **SignalR** ve **SqlTableDependency** kullanarak veritabanındaki değişiklikleri algılar ve bu değişiklikleri anlık olarak istemcilere iletir.
 
